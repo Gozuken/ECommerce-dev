@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Payment
+comment1.params=basket
+comment1.target=int\ calculateTotal(Basket)
+comment2.params=basket
+comment2.target=boolean\ pay(Basket)
+numComments=3

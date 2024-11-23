@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Product
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=float\ getPrice()
+comment3.params=price
+comment3.target=void\ setPrice(float)
+comment4.params=
+comment4.target=int\ getStockQuantity()
+comment5.params=stockQuantity
+comment5.target=void\ setStockQuantity(int)
+comment6.params=
+comment6.target=int\ getItemId()
+comment7.params=itemId
+comment7.target=void\ setItemId(int)
+comment8.params=name\ price\ stockQuantity\ itemId
+comment8.target=Product(java.lang.String,\ float,\ int,\ int)
+numComments=9
